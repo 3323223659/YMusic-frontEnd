@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4620569 */
+  src: url('iconfont.woff2?t=1723217102471') format('woff2'),
+       url('iconfont.woff?t=1723217102471') format('woff'),
+       url('iconfont.ttf?t=1723217102471') format('truetype');
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-play-stop:before {
+  font-family: iconfont;
+  content: "\e61c";
+}
+
+.icon-xiayiqu:before {
+  font-family: iconfont;
+  content: "\e7ff";
+}
+
+.icon-shangyiqu:before {
+  font-family: iconfont;
+  content: "\e800";
+}
+
+.icon-yunduanxiazai:before {
+  font-family: iconfont;
+  content: "\ec1d";
+}
+
+.icon-yunduanshangchuan:before {
+  font-family: iconfont;
+  content: "\ec1e";
+}
+
+.icon-icon-test:before {
+  font-family: iconfont;
+  content: "\e633";
+}
+
+.icon-icon-test1:before {
+  font-family: iconfont;
+  content: "\e634";
+}
+
+.icon-icon-test2:before {
+  font-family: iconfont;
+  content: "\e63c";
+}
+
+.icon-icon-test3:before {
+  font-family: iconfont;
+  content: "\e640";
+}
+
+.icon-icon-test4:before {
+  font-family: iconfont;
+  content: "\e64d";
+}
+
+.icon-icon-test5:before {
+  font-family: iconfont;
+  content: "\e64f";
+}
+
+.icon-buganxingqu:before {
+  font-family: iconfont;
+  content: "\e8ad";
+}
+
+.icon-bofangjilu:before {
+  font-family: iconfont;
+  content: "\e8ae";
+}
+
+.icon-gengduo:before {
+  font-family: iconfont;
+  content: "\e8af";
+}
+
+.icon-mima:before {
+  font-family: iconfont;
+  content: "\e8b2";
+}
+
+.icon-shanchu:before {
+  font-family: iconfont;
+  content: "\e8b6";
+}
+
+.icon-shengyinguanbi:before {
+  font-family: iconfont;
+  content: "\e8b8";
+}
+
+.icon-shengyin:before {
+  font-family: iconfont;
+  content: "\e8b9";
+}
+
+.icon-sousuo:before {
+  font-family: iconfont;
+  content: "\e8ba";
+}
+
+.icon-zengjia:before {
+  font-family: iconfont;
+  content: "\e8c0";
+}
+
+.icon-aixin:before {
+  font-family: iconfont;
+  content: "\e8ab";
+}
+
+.icon-bianji:before {
+  font-family: iconfont;
+  content: "\e8ac";
+}
+
