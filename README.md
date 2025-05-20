@@ -3,7 +3,7 @@
 #### 介绍
 开发了一个基于Vue2的在线音乐播放器网页平台与对应管理系统，实现了音频播放、进度控制、播放列表等核心功能。
 此项目基于前后端分离架构进行开发，启动该项目需结合后端使用，后端使用SpringBoot框架进行开发。
-后端地址：https://gitee.com/yangxiao2005/music-project
+后端地址：https://github.com/3323223659/YMusic-backEnd
 
 #### 软件架构
 Vue2、Vuex、Router、Axios、ElementUI
